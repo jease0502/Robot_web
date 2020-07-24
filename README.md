@@ -14,7 +14,7 @@
 
 ### Python
 
-- Python 3.6.9
+- Python 3.7.8
 - 套件文檔請查看 requirements.txt，安裝方法為:
   - `pip3 install -r requirements.txt`
 
